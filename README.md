@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ido Amit, third year CS student.
 - 👀 I’m interested in ML career.
-- 📫 You can reach me by my email dodoamit198@gmail.com
+- 📫 You can reach me via my email dodoamit198@gmail.com
 
 <!---
 IdoAmit198/IdoAmit198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
