@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ido Amit, third year CS student.
-- 👀 I’m interested in ML career.
+- Hi, I’m Ido Amit, fourth year CS student at the Technion 👋
+- NLP & DL researcher at Intel-Labs.
 - 📫 You can reach me via my email dodoamit198@gmail.com
 
 <!---
