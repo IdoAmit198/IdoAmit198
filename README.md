@@ -1,5 +1,4 @@
-- Hi, I’m Ido Amit, fourth year CS student at the Technion 👋
-- NLP & DL researcher at Intel-Labs.
+- Hi, I’m Ido Amit, MSc. Computer Science student at the Technion 👋
 - 📫 You can reach me via my email dodoamit198@gmail.com
 
 <!---
