@@ -1,5 +1,6 @@
-- Hi, I’m Ido Amit, an MSc Computer Science student at the Technion 👋
+- Hi, I’m Ido Amit, an MSc Computer Science graduate from the Technion 👋
 - I specialize in Deep Learning and Natural Language Processing research.
+- My research topics are reliability, safety, robustness, and efficiency.
 - 📫 Feel free to reach out to me via my [personal email](mailto:dodoamit198@gmail.com) or [Technion Email](mailto:ido.amit@cs.technion.ac.il)
 
 <!---
